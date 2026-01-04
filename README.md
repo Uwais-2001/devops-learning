@@ -7,10 +7,10 @@ The goal of this repo is to demonstrate practical understanding rather than theo
 ## Modules
 
 ### Linux Fundamentals
-- Solutions to Bandit games.
+- Solutions to Bandit games. (Soon)
 
 ### Scripting with Bash
-- Useful Bash scripts.
+- Useful Bash scripts. (Soon)
 
 ### Git Course
 -
