@@ -1,0 +1,5 @@
+region        = "eu-west-2"
+instance_ami  = "ami-09dbc7ce74870d573"
+instance_type = "t2.micro"
+vpc_id        = "vpc-0a26938c93555eb15"
+subnet_id     = "subnet-0e781ced599506bd7"
