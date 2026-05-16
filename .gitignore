@@ -9,3 +9,5 @@ crash.log
 
 # Sensitive/environment files
 .env
+
+__pycache__
